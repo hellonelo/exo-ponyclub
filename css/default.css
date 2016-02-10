@@ -1,6 +1,6 @@
 body{
-    font-family: "Arial";
-    background: deeppink;
+    font-family: "Comic sans MS";
+    background: pink;
 }
 
 .clearfix{
@@ -32,4 +32,6 @@ ul.ponys li figure img{
 
 ul.ponys li figure figcaption {
     text-align: center;
+    font-size: 30px;
+    background: red;
 } 
